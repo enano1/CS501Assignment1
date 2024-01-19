@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="on">Hide Message</string>
+    <string name="off">Say Hello</string>
+</resources>
